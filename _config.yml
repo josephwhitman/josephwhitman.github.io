@@ -1,8 +1,9 @@
 # top level stuff you probably don't need to touch
 highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+markdown: kramdown
+# markdown: rdiscount
+# rdiscount:
+#  extensions: [smart]
 permalink: /:title.html
 paginate: 5
 gems: [jekyll-paginate]
@@ -23,8 +24,4 @@ twitter: joseph_whitman
 linkedin: josephwhitman
 stackoverflow: users/6789909/joe
 #disqus: username
-#google_analytics: 
-
-
-# needed for travis-ci build
-# exclude: [vendor]
+google_analytics: UA-46287878-1
