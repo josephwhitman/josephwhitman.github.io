@@ -1,0 +1,14 @@
+# Site Settings
+title: "Hi, I'm Joe Whitman."
+description: "I'm an Economics Ph.D. candidate at the University of Florida."
+url: 'http://josephwhitman.com/' # the base hostname & protocol for your site
+nav: "true"
+footer_text: '© 2016 Joseph Whitman'
+twitter: 'joseph_whitman'
+github: 'josephwhitman'
+#medium: 'blog.josephwhitman.com'
+
+# Admin Settings
+admin_name: 'Joseph Whitman'
+admin_email: 'jwhitman89@gmail.com'
+google_analytics: "UA-46287878-1" # Update with your own tracking ID
