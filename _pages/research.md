@@ -5,12 +5,17 @@ permalink: /research/
 ---
 
 ## Research
---
+___
 
-Aenean praesentium dolore aenean qui nesciunt dictumst molestiae, odit irure. Nesciunt fusce, atque pharetra odio quis quaerat accusantium? Integer aspernatur eligendi facilisis, do sodales. Consequat.
+#### Publications
 
-Arcu porro faucibus ante! Unde litora voluptate veniam fugit alias. Sociosqu! Augue, cupidatat excepturi laoreet magnis veniam repudiandae impedit venenatis alias iure ad ab! Enim.
+“The NCAA Cartel, Monopsonistic Restrictions and Antitrust Policy” (with Roger D. Blair), *Antitrust Bulletin* (forthcoming)  
 
-Nibh quia necessitatibus omnis! Nemo nascetur penatibus iste morbi. Nisi, consequat! Rutrum. Quasi elementum, dignissim cillum, cubilia sapien vitae officia porta hendrerit. Mi aut recusandae.
+#### Working Papers
 
-Voluptatem sint. Sapiente porttitor vivamus sequi occaecat litora? Conubia molestias nostrud dicta quisque penatibus minim imperdiet? Aspernatur nostra doloribus nibh curae ac? Nobis quas? Sollicitudin.
+“Asymmetric Incentives in the National Football League” (job market paper)  
+
+#### Works in Progress
+
+“Effects of Migration on Intraindustry Trade and the Skill Premium”  
+“Free Riders and Social Incentives: Evidence from Wikipedia”  
