@@ -7,19 +7,23 @@ permalink: /teaching/
 ## Teaching
 ____
 
+### Instructor
+
 #### ECO 3101: Intermediate Microeconomics
 
-| Fall 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| [Syllabus]() \| [Evaluations]() |
-| Spring 2016 &nbsp;\| [Syllabus]() \| [Evaluations]() |
-| Fall 2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| [Syllabus]() \| [Evaluations]() |
-| Spring 2015 &nbsp;\| [Syllabus]() \| [Evaluations]() |
+| Fall 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| [Syllabus](/files/syllabus-ECO3101-2016-fall.pdf) \| Evaluations (N/A) |
+| Spring 2016 &nbsp;\| [Syllabus](/files/syllabus-ECO3101-2016-spring.pdf) \| [Evaluations](/files/TeachingEvals-2016-Spring.pdf) |
+| Fall 2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| [Syllabus](/files/syllabus-ECO3101-2015-fall.pdf) \| [Evaluations](/files/TeachingEvals-2015-Fall.pdf) |
+| Spring 2015 &nbsp;\| [Syllabus](/files/syllabus-ECO3101-2015-spring.pdf) \| [Evaluations](/files/TeachingEvals-2015-Spring.pdf) |
 
+### Teaching Assistant
+Fall & Spring 2011 - 2014, Summer 2016
 
+- Economics of Business Decisions (MBA) 
+- Managerial Economics (MBA) 
+- Intermediate Microeconomics 
+- Economics of Sports
+- Government Regulation of Business 
+- Principles of Microeconomics
 
-Arcu porro faucibus ante! Unde litora voluptate veniam fugit alias. Sociosqu! Augue, cupidatat excepturi laoreet magnis veniam repudiandae impedit venenatis alias iure ad ab! Enim.
-
-#### Teaching Philosophy [PDF](/teachingphil.pdf)
-
-Nibh quia necessitatibus omnis! Nemo nascetur penatibus iste morbi. Nisi, consequat! Rutrum. Quasi elementum, dignissim cillum, cubilia sapien vitae officia porta hendrerit. Mi aut recusandae.
-
-Voluptatem sint. Sapiente porttitor vivamus sequi occaecat litora? Conubia molestias nostrud dicta quisque penatibus minim imperdiet? Aspernatur nostra doloribus nibh curae ac? Nobis quas? Sollicitudin.
+### Teaching Philosophy [PDF](/files/teachingphil.pdf)

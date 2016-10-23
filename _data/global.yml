@@ -1,11 +1,13 @@
 # Site Settings
-title: "Hi, I'm Joe Whitman."
+title: "Joseph Whitman"
 description: "I'm an Economics Ph.D. candidate at the University of Florida."
 url: 'http://josephwhitman.com/' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 Joseph Whitman'
 twitter: 'joseph_whitman'
 github: 'josephwhitman'
+stackoverflow: 'users/6789909/joe'
+linkedin: 'josephwhitman'
 #medium: 'blog.josephwhitman.com'
 
 # Admin Settings
