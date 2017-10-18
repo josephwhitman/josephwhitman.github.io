@@ -9,11 +9,11 @@ ___
 
 #### Publications
 
-“The NCAA Cartel, Monopsonistic Restrictions and Antitrust Policy” (with Roger D. Blair), *Antitrust Bulletin* (forthcoming)  
+“The NCAA Cartel, Monopsonistic Restrictions and Antitrust Policy”, *Antitrust Bulletin, March 2017* (with Roger D. Blair)
 
 #### Working Papers
 
-“Asymmetric Incentives in the National Football League” (job market paper)  
+[“Asymmetric Incentives in the National Football League”](jmp.pdf) (Job Market Paper)  
 
 #### Works in Progress
 
