@@ -13,7 +13,7 @@ ___
 
 #### Working Papers
 
-[“Asymmetric Incentives in the National Football League”](jmp.pdf) (Job Market Paper)  
+[“Asymmetric Incentives in the National Football League”](/files/jmp.pdf) (Job Market Paper)  
 
 #### Works in Progress
 
